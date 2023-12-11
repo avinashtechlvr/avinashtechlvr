@@ -1,4 +1,4 @@
-### Hi there, I'm Avinash Chodavarapu 👋
+### Hi there, I'm Avinash Chodavarapu 👋 - Tech Enthusiast & Developer
 
 ![GitHub followers](https://img.shields.io/github/followers/avinashtechlvr?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/avinashtechlvr?style=social)
 
