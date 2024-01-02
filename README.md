@@ -1,7 +1,5 @@
 ### Hi there, I'm Avinash Chodavarapu 👋 - Tech Enthusiast & Developer
 
-![GitHub followers](https://img.shields.io/github/followers/avinashtechlvr?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/avinashtechlvr?style=social)
-
 #### About Me 🚀
 I'm a passionate developer specializing in Python, JavaScript, TypeScript, Vue.js, and React.js. I love creating automation systems, websites, and server solutions.
 
